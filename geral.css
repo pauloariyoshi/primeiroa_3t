@@ -49,3 +49,12 @@ padding: 5px;
     font-size: 10px;
     margin-top: 10px;
 }
+#spListaMeses {
+    background: rgb(255, 0, 0);
+    color: black;
+    text-align: start;
+    margin-top: 10px;
+    border-radius: blueviolet;
+    border-width: 2px;
+    border-style: dashed;
+}
